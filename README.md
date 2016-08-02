@@ -1,0 +1,2 @@
+# TestJDRegisterApi
+利用Excel和Python写的一个半自动Web接口测试脚本
